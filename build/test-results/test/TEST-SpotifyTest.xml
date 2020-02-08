@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SpotifyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-08T06:51:53" hostname="admin1-HP-EliteBook-Folio-9480m" time="1.574">
+  <properties/>
+  <testcase name="testUpdatePlaylist" classname="SpotifyTest" time="1.574"/>
+  <system-out><![CDATA[Playlist name updated Successfully
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
